@@ -1,2 +1,3 @@
 # hello-world
-Just a sample repository to familiarize with github.
+
+Hello. This is where I will put the changes that I make to the readme file.
